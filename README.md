@@ -1,5 +1,9 @@
 # trabalho-avaliativo-qualidade-de-codigo
 
+[Entrega do docs](https://docs.google.com/document/d/1bUjQgZvjRXL3kCkOsi7paZnzD4RzO4MHuIQU4qdOlz0/edit?usp=sharing).
+
+ Voce encontra todas fontes na pasta "refs" no repositorio.
+
 ## IA generativa e qualidade de código
 
 Os estudos analisados mostram que ferramentas como ChatGPT e GitHub Copilot podem trazer benefícios importantes para a programação, principalmente para desenvolvedores iniciantes, mas também apresentam riscos relacionados à qualidade e à manutenção do software.
@@ -30,7 +34,7 @@ O estudo também demonstrou que o ChatGPT consegue corrigir parte de seus própr
 
 ---
 
-### GitClear — Coding on Copilot (2024) e AI Copilot Code Quality (2025)
+### GitClear — Coding on Copilot (2023) e AI Copilot Code Quality (2026)
 
 Os relatórios da GitClear analisaram centenas de milhões de linhas de código provenientes de repositórios reais.
 
@@ -41,7 +45,7 @@ Os dados apontaram tendências como:
 * redução da reutilização e da refatoração de código existente;
 * aumento potencial da dívida técnica.
 
-O relatório de 2025 reforçou essa tendência, mostrando uma redução expressiva da proporção de alterações relacionadas à refatoração e aumento de código duplicado.
+O relatório de 2026 reforçou essa tendência, mostrando uma redução expressiva da proporção de alterações relacionadas à refatoração e aumento de código duplicado.
 
 Esses resultados sugerem que ferramentas de IA podem aumentar rapidamente a quantidade de código produzido, mas isso não significa necessariamente aumento proporcional da qualidade do software.
 
